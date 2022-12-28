@@ -1,0 +1,32 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 113,
+    "height" : 76
+  }, {
+    "width" : 226,
+    "height" : 152
+  }, {
+    "width" : 452,
+    "height" : 304
+  }, {
+    "width" : 903,
+    "height" : 607
+  }, {
+    "width" : 1805,
+    "height" : 1213
+  }, {
+    "width" : 3610,
+    "height" : 2426
+  } ],
+  "profile" : "http://iiif.io/api/image/2/level0.json",
+  "width" : 3610,
+  "@id" : "https://JodyButterworth.github.io/Laos-display/images/Image9",
+  "@context" : "http://iiif.io/api/image/2/context.json",
+  "height" : 2426
+}
