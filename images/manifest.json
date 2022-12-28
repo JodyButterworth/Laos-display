@@ -6,6 +6,63 @@
   "type" : "Manifest",
   "@context" : "http://iiif.io/api/presentation/3/context.json",
   "items" : [ {
+    "width" : 847,
+    "id" : "https://JodyButterworth.github.io/Laos-display/images/Laosmap/canvas/",
+    "label" : {
+      "none" : [ "Laosmap" ]
+    },
+    "type" : "Canvas",
+    "items" : [ {
+      "id" : "https://JodyButterworth.github.io/Laos-display/images/Laosmap/AnnoPage/",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "motivation" : "Painting",
+        "id" : "https://JodyButterworth.github.io/Laos-display/images/Laosmap/annotation/",
+        "type" : "Annotation",
+        "body" : {
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 27,
+              "height" : 29
+            }, {
+              "width" : 53,
+              "height" : 57
+            }, {
+              "width" : 106,
+              "height" : 114
+            }, {
+              "width" : 212,
+              "height" : 228
+            }, {
+              "width" : 424,
+              "height" : 456
+            }, {
+              "width" : 847,
+              "height" : 912
+            } ],
+            "profile" : "http://iiif.io/api/image/2/level0.json",
+            "width" : 847,
+            "@id" : "https://JodyButterworth.github.io/Laos-display/images/Laosmap",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "height" : 912
+          } ],
+          "format" : "image/jpeg",
+          "width" : 847,
+          "id" : "https://JodyButterworth.github.io/Laos-display/images/Laosmap/full/full/0/default.jpg",
+          "type" : "Image",
+          "height" : 912
+        },
+        "target" : "https://JodyButterworth.github.io/Laos-display/images/Laosmap/canvas/"
+      } ]
+    } ],
+    "height" : 912
+  }, {
     "width" : 4197,
     "id" : "https://JodyButterworth.github.io/Laos-display/images/Image1/canvas/",
     "label" : {
