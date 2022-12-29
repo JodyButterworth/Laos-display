@@ -101,5 +101,9 @@
     "@type" : "sc:Manifest",
     "@id" : "https://JodyButterworth.github.io/Laos-display/manifests/manifest18.json",
     "label" : "[Click to edit label]"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://JodyButterworth.github.io/Laos-display/manifests/manifest19.json",
+    "label" : "[Click to edit label]"
   } ]
 }
