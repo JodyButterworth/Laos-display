@@ -37,5 +37,9 @@
     "@type" : "sc:Manifest",
     "@id" : "https://JodyButterworth.github.io/Laos-display/manifests/image3.json",
     "label" : "[Click to edit label]"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://JodyButterworth.github.io/Laos-display/manifests/manifest.json",
+    "label" : "[Click to edit label]"
   } ]
 }
