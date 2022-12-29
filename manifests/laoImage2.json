@@ -1,0 +1,57 @@
+{
+  "@context" : "http://iiif.io/api/presentation/2/context.json",
+  "@id" : "https://JodyButterworth.github.io/Laos-display/manifests/laoImage2.json",
+  "@type" : "sc:Manifest",
+  "label" : "[Click to edit label]",
+  "metadata" : [ ],
+  "description" : [ {
+    "@value" : "[Click to edit description]",
+    "@language" : "en"
+  } ],
+  "license" : "https://creativecommons.org/licenses/by/3.0/",
+  "attribution" : "[Click to edit attribution]",
+  "sequences" : [ {
+    "@id" : "http://0fc3715a-2202-4b7f-ac9d-44fe3b7c2f5e",
+    "@type" : "sc:Sequence",
+    "label" : [ {
+      "@value" : "Normal Sequence",
+      "@language" : "en"
+    } ],
+    "canvases" : [ {
+      "@id" : "http://d5205f72-3b87-4b6e-8c69-23279b983540",
+      "@type" : "sc:Canvas",
+      "label" : "Empty canvas",
+      "height" : 0,
+      "width" : 0,
+      "images" : [ ],
+      "related" : ""
+    }, {
+      "@id" : "http://90c8d366-9f16-409a-892f-4c1e3a31df1e",
+      "@type" : "sc:Canvas",
+      "label" : "Empty canvas",
+      "height" : 9422,
+      "width" : 5984,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://5ce35008-6aa3-45ef-833c-9bed56003aa5",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://jodybutterworth.github.io/Laos-display/images/Image2/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://jodybutterworth.github.io/Laos-display/images/Image2",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 9422,
+          "width" : 5984
+        },
+        "on" : "http://90c8d366-9f16-409a-892f-4c1e3a31df1e"
+      } ],
+      "related" : ""
+    } ]
+  } ],
+  "structures" : [ ]
+}
