@@ -53,5 +53,9 @@
     "@type" : "sc:Manifest",
     "@id" : "https://JodyButterworth.github.io/Laos-display/manifests/manifest6.json",
     "label" : "[Click to edit label]"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://JodyButterworth.github.io/Laos-display/manifests/manifest7.json",
+    "label" : "[Click to edit label]"
   } ]
 }
